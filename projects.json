@@ -1,0 +1,42 @@
+[
+    {
+        "folder":  "test-zebra-asb",
+        "repo":  "test-zebra-asb",
+        "name":  "ASB"
+    },
+    {
+        "folder":  "test-zebra-allocations",
+        "repo":  "test-zebra-allocations",
+        "name":  "Allocations"
+    },
+    {
+        "folder":  "test-zebra-analysis",
+        "repo":  "test-zebra-analysis",
+        "name":  "Analysis"
+    },
+    {
+        "folder":  "test-zebra-customers",
+        "repo":  "test-zebra-customers",
+        "name":  "Customers"
+    },
+    {
+        "folder":  "test-zebra-homeswapper",
+        "repo":  "test-zebra-homeswapper",
+        "name":  "HomeSwapper\u0026Tenancy"
+    },
+    {
+        "folder":  "test-zebra-homelessnesssolutions",
+        "repo":  "test-zebra-homelessness-solutions",
+        "name":  "HomelessnessSolutions"
+    },
+    {
+        "folder":  "test-zebra-roughsleepers",
+        "repo":  "test-zebra-rough-sleepers",
+        "name":  "RoughSleepers"
+    },
+    {
+        "folder":  "test-zebra-servicecharges",
+        "repo":  "test-zebra-service-charges",
+        "name":  "ServiceCharges"
+    }
+]
